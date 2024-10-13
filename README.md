@@ -27,7 +27,7 @@ YouTube Clone is a web application that replicates the basic functionality and u
 
 3. Create a `.env` file in the root of your project and add your RapidAPI key:
     ```
-    REACT_APP_RAPID_API_KEY=your_rapidapi_key
+    VITE_APP_YOUTUBE_KEY=your_rapidapi_key
     ```
 
 4. Start the development server:
