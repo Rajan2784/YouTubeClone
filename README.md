@@ -15,30 +15,30 @@ YouTube Clone is a web application that replicates the basic functionality and u
 
 ## Installation and Setup
 1. Clone the repository:
-    \`\`\`bash
+    ```bash
     git clone https://github.com/Rajan2784/YouTubeClone.git
     cd YouTubeClone
-    \`\`\`
+    ```
 
 2. Install dependencies:
-    \`\`\`bash
+    ```bash
     npm install
-    \`\`\`
+    ```
 
-3. Create a \`.env\` file in the root of your project and add your RapidAPI key:
-    \`\`\`
+3. Create a `.env` file in the root of your project and add your RapidAPI key:
+    ```
     REACT_APP_RAPID_API_KEY=your_rapidapi_key
-    \`\`\`
+    ```
 
 4. Start the development server:
-    \`\`\`bash
+    ```bash
     npm start
-    \`\`\`
+    ```
 
 5. Open the application in your browser:
-    \`\`\`
+    ```
     http://localhost:3000
-    \`\`\`
+    ```
 
 ## Usage
 Once the application is running, you can:
